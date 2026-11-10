@@ -19,14 +19,17 @@ Desarrollo integral de modelado paramétrico 2D y 3D realizado en **Autodesk Rev
 ---
 
 ## Estructura del Repositorio
-
+```text
 ├── README.md               # Descripción general y metadatos del proyecto
 ├── Docs/                   # Planos generales exportados en PDF
 ├── 3D_Views/               # Vistas renders e isométricas en PNG/JPG
 ├── Revit_Model/            # Modelo nativo (.rvt)
 └── Data/                   # Cuadros de superficies y planillas técnicas
+```
+
 ---
-## Documentación Técnica (`/Docs`)
+
+### Documentación Técnica (`/Docs`)
 El proyecto incluye un juego completo de planimetría normalizada exportada a escala 1:100:
 * **Plano 01 – Plantas Arquitectónicas:** Planta Baja y Planta Alta con ejes de replanteo y acotación integral.
 * **Plano 02 – Vistas Exteriores:** Isometría general de implantación y perspectiva exterior.
