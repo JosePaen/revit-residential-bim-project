@@ -29,25 +29,10 @@ Desarrollo integral de modelado paramétrico 2D y 3D realizado en **Autodesk Rev
 
 ---
 
-### Documentación Técnica (`/Docs`)
-El proyecto incluye un juego completo de planimetría normalizada exportada a escala 1:100:
-* **Plano 01 – Plantas Arquitectónicas:** Planta Baja y Planta Alta con ejes de replanteo y acotación integral.
-* **Plano 02 – Vistas Exteriores:** Isometría general de implantación y perspectiva exterior.
-* **Plano 03 – Cortes y Perspectivas:** Cortes longitudinales y transversales (A-A y B-B) y corte perspectivado interior.
-* **Plano 04 – Alzados y Superficies:** Fachadas ortogonales (Norte-Sur), axonometría de volumen y cuadro de superficies.
-* **Plano 05 – Alzados de Entorno:** Fachadas Este-Oeste con detalle de pendientes y terreno.
+Modelo Nativo BIM (/Revit_Model)
+Debido a las restricciones de tamaño de archivo en repositorios web (170 MB), el archivo nativo .rvt se encuentra alojado en almacenamiento seguro en la nube:
 
----
-
-## Registro Visual (`/3D_Views`)
-
-| Vista Isométrica de Implantación | Perspectiva Exterior Acceso |
-| :---: | :---: |
-| ![Isometria](3D_Views/isometria_general.png) | ![Exterior](3D_Views/perspectiva_exterior.png) |
-
-| Corte Perspectivado | Vista Interior |
-| :---: | :---: |
-| ![Corte](3D_Views/corte_perspectivado.png) | ![Interior](3D_Views/vista_interior.png) |
+Descargar Modelo Revit 2024 (.rvt): [Acceder a Google Drive](https://drive.google.com/file/d/1pUfC5JiT2L7XhQsJ_mnkB9J6coezsw-w/view?usp=drive_link)
 
 ---
 
